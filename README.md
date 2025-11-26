@@ -10,7 +10,7 @@ I am passionate about coding and adept in managing databases. I thrive on solvin
 
 • 2023 – Present
 
-🎓 Certifications:SQL and Relational Databases 101https://courses.cognitiveclass.ai/certificates/99c6ae8d07464a0c87c8b387e1381afc
+🎓 Certifications [SQL and Relational Databases 101](http://courses.cognitiveclass.ai/certificates/99c6ae8d07464a0c87c8b387e1381afc
 
 Skill Sets
 • Programming
