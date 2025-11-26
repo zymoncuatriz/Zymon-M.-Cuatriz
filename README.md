@@ -15,14 +15,23 @@ I am passionate about coding and adept in managing databases. I thrive on solvin
 
 ##Skill Sets
 • Programming
+
 • Java
+
 • JavaScript
+
 • Databases
+
 • IBM DB2 Cloud
+
 • Tools
+
 • Lucidchart
+
 • Jaspersoft Studio
+
 • Eclipse
+
 • HTML
 
 🤝 Let's Connect!
