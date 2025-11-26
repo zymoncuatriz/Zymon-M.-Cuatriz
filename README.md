@@ -1,4 +1,4 @@
-# Zymon-M.-Cuatriz
+# ZymonCuatriz
 Hi there, I'm Zymon M. Cuatriz! 👋
 I am passionate about coding and adept in managing databases. I thrive on solving intricate problems and architecting elegant solutions. My journey in tech commenced with the BS Information Technology program.
 
