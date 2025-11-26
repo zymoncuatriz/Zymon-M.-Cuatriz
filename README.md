@@ -14,6 +14,7 @@ I am passionate about coding and adept in managing databases. I thrive on solvin
 
 
 ##Skill Sets
+
 • Programming
 
 • Java
