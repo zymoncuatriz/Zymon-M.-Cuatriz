@@ -14,7 +14,9 @@ I am passionate about coding and adept in managing databases. I thrive on solvin
 
 ----
 
-🎓 Certifications [ SQL and Relational Databases 101 ](https://courses.cognitiveclass.ai/certificates/99c6ae8d07464a0c87c8b387e1381afc)
+🎓 Certifications 
+[ SQL and Relational Databases 101 ](https://courses.cognitiveclass.ai/certificates/99c6ae8d07464a0c87c8b387e1381afc)
+
 
  [ Become An OCI Foundations Associate (2025) ](https://catalog-education.oracle.com/pls/certview/sharebadge?id=19EECD5EE9A19D81492067464F4B509BF85A9071E0D256CB44E48FBE5B441E4E)
 ---
