@@ -23,6 +23,8 @@ I am passionate about coding and adept in managing databases. I thrive on solvin
  [ Become an Oracle Data Platform Foundations Associate ](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8377B5B9D0492E9609FB32D20E17C75F67C08C627D90E78F9FEDCAB05E5E810)
 
 [ Become An OCI AI Foundations Associate (2025) ](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FE7DE1CD3786D38935E55122805FAAC72428F232DAE3F70282FCB6B528C8A8AF) 
+
+[ NoSQL and DBaaS 101 ](https://courses.cognitiveclass.ai/certificates/92ad3f552cae41d19c4347e608a2c134)
 ---
 
 ##Skill Sets
